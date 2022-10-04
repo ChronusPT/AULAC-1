@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99wM/oBQFBusALwJWDq0kVnXeTa9KVL/aH1FnBq3TDXjgYDk03cV82QD9dGxuJGhEP/TB5rOVpQoeONMi/ForQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DBugalho\\Documents\\Modelos Personalizados do Office\\Projecto\\AULAS\\AULAC-1\\Aula1-EX\\Aula1_EX2\\Aula1_EX2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DBugalho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
